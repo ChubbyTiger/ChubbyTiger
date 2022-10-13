@@ -1,5 +1,10 @@
-### Hi there 👋 - 🌱 I’m currently learning ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyu-work&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 ChubbyTiger
+L love programming development.
+Senior PHP engineer, currently based in Beijing.
+I put mostly of my focus on web development with php and I am a vue nerd.
+L love sharing php tech stack and am currently sorting out relevant documents.
+
+## 𝗠𝘆 Jobs
 
 <!--
 **siyu-work/siyu-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
